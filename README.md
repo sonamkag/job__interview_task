@@ -11,8 +11,9 @@ Following were some additional points to keep in mind:
 7. Bonus points for quick delivery.
 
 
-for compiling using CMake:
-Use the following command:
->> cmake .
+For compiling using CMake use the following command:
+>> cmake 
+>>
 >> make
+>>
 >> ./thread
