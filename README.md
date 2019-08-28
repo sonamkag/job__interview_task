@@ -12,8 +12,8 @@ Following were some additional points to keep in mind:
 
 
 For compiling using CMake use the following command:
->> cmake 
->>
->> make
->>
->> ./thread
+>>>> cmake 
+>>>>
+>>>> make
+>>>>
+>>>> ./thread
